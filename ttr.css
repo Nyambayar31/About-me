@@ -38,7 +38,7 @@ header{
     border-radius: 15px;
 }
 .main{
-    background-image: url("img/oops.jpg");
+    background-image: url("oops.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
